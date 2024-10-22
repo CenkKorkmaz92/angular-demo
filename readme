@@ -1,0 +1,3 @@
+node_modules - alle libraries
+package.js - alle libraries als js - node modules ordner wird daraus generiert
+pakage lock.js speicher was installiert ist und was nicht
